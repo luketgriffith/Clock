@@ -13,3 +13,4 @@ clock.text(timeString);
 }
 
 setInterval('tickTock()', 1000);
+var body= $('body');
